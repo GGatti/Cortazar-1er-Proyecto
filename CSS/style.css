@@ -231,7 +231,7 @@ p.summary   {
 }
  
 #skills li {
-    background: url("../images/bullet_green.png") no-repeat;
+    background: url("../images/check.jpg") no-repeat;
     background-position: 0px 2px;
     padding: 0px 0px 0px 25px;
 }
