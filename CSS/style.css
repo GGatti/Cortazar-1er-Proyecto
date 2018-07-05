@@ -114,13 +114,13 @@ a:active {
 }
  
 #contact-details li.phone   {
-    background: url("../images/phone.png") no-repeat;
+    background: url("../images/Whatsapp.png") no-repeat;
     background-position: 0px 0px;
     padding: 0px 0px 12px 40px;
 }
  
 #contact-details li.email   {
-    background: url("../images/mail.png") no-repeat;
+    background: url("../images/Mail.png") no-repeat;
     background-position: 0px 0px;
     padding: 0px 0px 12px 40px;
 }
